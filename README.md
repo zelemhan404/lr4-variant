@@ -11,7 +11,7 @@
    a нечётное, b чётное.
 4. Вывод con;
 ### 3.Блок-схема
-![Блок-схема алгоритма](https://github.com/zelemhan404/lr4-variant/blob/0f64a140f9cdc57cb8c8b04ee56707d125432e82/%D0%B1%D0%BB%D0%BE%D0%BA%D1%81%D1%85%D0%B5%D0%BC%D0%B0.png)
+![Блок-схема алгоритма]([https://github.com/zelemhan404/lr4-variant/blob/0f64a140f9cdc57cb8c8b04ee56707d125432e82/%D0%B1%D0%BB%D0%BE%D0%BA%D1%81%D1%85%D0%B5%D0%BC%D0%B0.png](https://github.com/zelemhan404/lr4-variant/blob/ec0eb641bebac9e8b8759b306614b902fd4c7aa8/%D0%B1%D0%BB%D0%BE%D0%BA%D1%81%D1%85%D0%B5%D0%BC%D0%B02.png))
 # 4.Реализация программы
 ![Релизация алгоритма](https://github.com/zelemhan404/lr4-variant/blob/dd23cc83c80e3bc935d8c62d2b0260916218f056/algo.png)
 ## 5. Информация о разработчике
