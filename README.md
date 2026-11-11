@@ -13,6 +13,6 @@
 ### 3.Блок-схема
 ![Блок-схема алгоритма](https://github.com/zelemhan404/lr4-variant/blob/0f64a140f9cdc57cb8c8b04ee56707d125432e82/%D0%B1%D0%BB%D0%BE%D0%BA%D1%81%D1%85%D0%B5%D0%BC%D0%B0.png)
 # 4.Реализация программы
-
+![Реализация алгоритма](https://github.com/zelemhan404/lr4-variant/blob/0f64a140f9cdc57cb8c8b04ee56707d125432e82/%D0%B1%D0%BB%D0%BE%D0%BA%D1%81%D1%85%D0%B5%D0%BC%D0%B0.png)
 ## 5. Информация о разработчике
   Овчинников Артём БИЦТ-262
